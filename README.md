@@ -6,7 +6,7 @@ Use for testing lower environents where the links are hardcoded to live urls.
 
 *Download the repo. `git clone git@github.com:stephenlloyd/sanjify.git`
 
-*go to [chrome extentions](chrome://extensions "Chrome Extensions")
+*go to [chrome extentions](chrome://extensions "Chrome Extensions") `chrome://extensions` in Chrome
 
 *click on `Developer mode`.
 
