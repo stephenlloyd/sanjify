@@ -1,9 +1,15 @@
 # sanjify
 
-go to chrome://extensions
+1 - Download the zip
 
-click on Developer mode.
+2 - Unpack the zip
 
-select `load unpacked extension...`
-select the repositoy.
-When on a page you want to sanjify, click his face. 
+3 - Go to chrome://extensions
+
+4 - Click on Developer mode
+
+5 - Select `load unpacked extension...`
+
+6 - Select the unpacked zip folder
+
+7 - When on a page you want to sanjify, click his face
